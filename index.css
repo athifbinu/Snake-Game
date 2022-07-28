@@ -1,7 +1,13 @@
 h1, h2, .game-canvas{
   text-align: center;
+  color: #fff;
+  margin-top: 10px;
 }
 
 #score, #game-status{
   color: red;
+}
+body{
+  background-color: black;
+  overflow: hidden;
 }
